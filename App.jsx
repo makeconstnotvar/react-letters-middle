@@ -1,5 +1,5 @@
 /*
-1. На старте загрузить буквы с сервера https://utils.mocklab.io/letters, получить строку с буквами "ABCDEFGHIJKLMNOPQRSTUVWXYZ".
+1. На старте загрузить буквы с сервера https://letters-back.makeconstnotvar.repl.co/letters, получить строку с буквами "ABCDEFGHIJKLMNOPQRSTUVWXYZ".
 2. Сделать текстовый флаг прогресса, слово loading.
 3. Из строки букв сформировать массив пар букв ['AA','AB',...'AZ','BA','BB'...'ZZ'].
 4. Вывести все пары на страницу.
